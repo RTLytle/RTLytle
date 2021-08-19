@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @RTLytle
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+Hi, I’m Joseph Lytle
+
 
 
 
